@@ -103,6 +103,7 @@ nav li a{
     padding: 10px 15px;
     width:66%;
     height:220px;
+    resize: none;
     margin-bottom: 15px;
 }
 .form-group button{
