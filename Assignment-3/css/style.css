@@ -94,14 +94,14 @@ nav li a{
     padding: 4px 0px;
 }
 .form-group input{
-    width:30%;
+    width:45%;
     height:35px;
     padding: 0px 15px;
     margin-bottom: 15px;
 }
 .form-group textarea{
     padding: 10px 15px;
-    width:55%;
+    width:66%;
     height:220px;
     margin-bottom: 15px;
 }
